@@ -1,0 +1,12 @@
+:root {
+  --gray-950:  hsl(0, 0%, 17%);
+  --gray-400: hsl(0, 0%, 58%);
+
+  --font-family: "Rubik", sans-serif;
+  --text-input: 18px;
+  --fw-light: 400;
+  --fw-regular: 500;
+  --fw-bold: 700;
+}
+
+
